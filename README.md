@@ -7,7 +7,7 @@ Landing page Application using React.js
 
     git clone https://github.com/amalkrishna/Landing-Page.git
 
-####Usage
+#### Usage
 
 Extract the file `Landing-Page.zip`
 
